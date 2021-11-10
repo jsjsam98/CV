@@ -6,6 +6,10 @@ _Contact: jiang.shang@northeastern.edu | (781)-502-6066_<br>
 [LinkedIn](https://www.linkedin.com/in/shangjun-jiang/) /
 [GitHub](https://github.com/jsjsam98/)
 
+## 🧰 Skill Set & Interested Field
+Java, Python, JavaScript, Matlab, C<br>
+Android Development, DataBase, OpenCV, React, Express, Node<br>
+
 ## 💻 Selected Project
 [**Android App: An Easy Chat Program**](https://github.com/jsjsam98/FirebaseDemo)
   - This is a mid-term project for NEU CS5520
