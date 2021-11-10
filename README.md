@@ -32,6 +32,17 @@ Android Development, DataBase, OpenCV, React, Express, Node<br>
 [**C Learning**](https://github.com/jsjsam98/CS5008)
   - Course assignments & lab for NEU CS5008
 
+## 🏢 Work Experience
+**Teaching Assistant**&nbsp; &nbsp; @ NEU&nbsp; &nbsp; _Sep 2021 - Present_<br>
+  - Responsible for leading recitation section every week
+  - 1-1 Python trouble shooting, office hours and grading
+  - Communicated with students on different programming topics
+
+**Software Engineer Intern**&nbsp; &nbsp; @ Fanmoo Vision&nbsp; &nbsp; _Jul 2019 - Sep 2019_<br>
+  - Collaborated in development of CCD soldering bumps and threads recognition and counting using CNN model
+  - Made dataset and trained recognition model based on Keras, which ended up part of a commercialized project
+  - Improved processing time per image from initial 10s to 3ms with GPU turbo and other trade-off methods
+
 ## 🏫 Education Experience
 **Northeastern University** _Boston, MA (Sep 2020 - Present)_<br>
 M.S. Computer Sciences (GPA:4.0/4.0)<br>
