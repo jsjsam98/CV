@@ -32,6 +32,9 @@ Android Development, DataBase, OpenCV, React, Express, Node<br>
 [**C Learning**](https://github.com/jsjsam98/CS5008)
   - Course assignments & lab for NEU CS5008
 
+[**MATLAB Knowledge**](https://github.com/jsjsam98/MATLAB-Application-in-Marine-Science)
+  - Course assignments for XMU Application of MATLAB in Marine Science
+
 ## 🏢 Work Experience
 **Teaching Assistant**&nbsp; &nbsp; @ NEU&nbsp; &nbsp; _Sep 2021 - Present_<br>
   - Responsible for leading recitation section every week
