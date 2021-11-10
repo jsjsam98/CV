@@ -28,5 +28,10 @@ _Contact: jiang.shang@northeastern.edu | (781)-502-6066_<br>
 [**C Learning**](https://github.com/jsjsam98/CS5008)
   - Course assignments & lab for NEU CS5008
 
+## 🏫 Education Experience
+**Northeastern University** _Boston, MA (Sep 2020 - Present)_<br>
+M.S. Computer Sciences (GPA:4.0/4.0)<br>
+**Xiamen University** _Xiamen, China (Sep 2016 - Jun 2020)_<br>
+B.S. Marine Biology (GPA:3.0/4.0)<br>
 
 
