@@ -53,3 +53,5 @@ M.S. Computer Sciences (GPA:4.0/4.0)<br>
 B.S. Marine Biology (GPA:3.0/4.0)<br>
 
 
+## 📰 My Paper
+[**A Method to Calculate Invisible Cost**](https://github.com/jsjsam98/ICM-Paper/blob/main/1923519.pdf)&nbsp; &nbsp; _2019 ICM&nbsp; &nbsp; Team 1923519_
