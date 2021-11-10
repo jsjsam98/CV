@@ -22,6 +22,9 @@ _Contact: jiang.shang@northeastern.edu | (781)-502-6066_<br>
 [**Web App: FoodBook**](https://github.com/jsjsam98/GroupProject-FoodBook)
   - This is the group project for NEU CS5610
 
+[**Swing GUI: Easy Animator**](https://github.com/jsjsam98/EasyAnimator)
+  - This is the group project for NEU CS5004
+
 [**C Learning**](https://github.com/jsjsam98/CS5008)
   - Course assignments & lab for NEU CS5008
 
